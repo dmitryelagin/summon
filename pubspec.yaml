@@ -1,0 +1,13 @@
+name: summon
+version: 0.1.0
+description: >-
+  A simple service locator for Flutter applications.
+environment:
+  sdk: '>=2.3.0 <3.0.0'
+  flutter: '>=1.5.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  pedantic: ^1.9.0
+  test: ^1.14.7
